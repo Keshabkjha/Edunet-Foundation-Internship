@@ -33,6 +33,7 @@ Feel free to explore the repository and reach out if you have any questions or w
 
 ## Certification
 I received a completion certificate for successfully completing the internship. You can find a copy of the certificate in this repository.
+![Edunet Foundation Internship Certificate](https://github.com/user-attachments/assets/5660e610-0b19-4a96-bac4-64dc10361bf4)
 
 ## Contact Information
 - **Name**: Keshab Kumar
