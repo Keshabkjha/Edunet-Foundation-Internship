@@ -1,8 +1,3 @@
-,Person,Company,Sales,Age
-0,Rajesh,CompA,250.0,23.0
-1,Raju,CompA,250.0,24.0
-2,Pradeep,CompA,150.0,25.0
-3,Amit,CompB,340.0,25.0
-4,Rakesh,CompB,0.0,24.0
-5,Suresh,CompC,243.0,27.0
-6,Raj,CompC,350.0,24.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:966cc1465881e1d0eb44c6eb268bf67c19856a53a51e76e7834777e7d0a6f465
+size 200
