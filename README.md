@@ -38,6 +38,7 @@ I received a completion certificate for successfully completing the internship. 
 ## Contact Information
 - **Name**: Keshab Kumar
 - **Email**: keshabkumarjha876@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/keshabkjha
 - **Institute**: NOIDA Institute of Engineering & Technology
 
 Thank you for visiting my repository!
